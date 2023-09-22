@@ -97,7 +97,7 @@ def getNextProbableWords(classes: List[Dict],
     if s_class in target:
       if member == []:
         member = [""]
-      output[statement] = sorted(member)[:5]
+      output[statement] = sorted(member)[:5] if member is not None else [""]
 
   return output
 
