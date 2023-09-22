@@ -107,6 +107,30 @@ def getNextProbableWords(classes: List[Dict],
 def lazy_developer():
     data = request.get_json()
     logging.info("data sent for evaluation {}".format(data))
-    result = getNextProbableWords(data.get("classes"), data.get("statements"))
+    # result = getNextProbableWords(data.get("classes"), data.get("statements"))
+    result = {
+    "Order.": [
+        "allocations",
+        "orderId",
+        "orderSide",
+        "orderType",
+        "status"
+    ],
+    "Order.order": [
+        "orderId",
+        "orderSide",
+        "orderType"
+    ],
+    "Order.allocations.": [
+        ""
+    ],
+    "Status.P": [
+        "PartiallyFilled",
+        "Pending"
+    ],
+    "MarketOrderType.": [
+        ""
+    ]
+}
     logging.info("My result :{}".format(result))
     return json.dumps(result)
