@@ -91,7 +91,8 @@ def getNextProbableWords(classes: List[Dict],
       else:
         member = extract_class_member(s_class, statement.split('.')[1])
     else:
-      member = extract_class_member(s_class, statement.split('.')[1])
+      if len(statement.split('.'))>1:
+        member = extract_class_member(s_class, statement.split('.')[1])
 
     if s_class in target:
       if member == []:
