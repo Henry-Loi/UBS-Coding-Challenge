@@ -5,6 +5,9 @@ from flask import request
 
 from routes import app
 
+# My import
+import math
+
 logger = logging.getLogger(__name__)
 
 @app.route('/swissbyte', methods=['POST'])
@@ -13,22 +16,23 @@ def testing():
     # logging.info("data sent for evaluation {}".format(data))
     
     # my code starts here
-    code = iter(data["code"])
+    # code = iter(data["code"])
     cases = data["cases"]
     outcomes = []
 
-    for case in cases:
+    for case in cases: # for each case
+
         variables = case.copy()
         is_solvable = True
 
         code = iter(data["code"])
         # logging.info(f"case: {case}")
 
-        for line in code:
+        for line in code: # for each line of code
             line = line.strip()
             # logging.info(line)
 
-            if line.startswith("if"):
+            if line.startswith("if"): # if statement
                 condition = line[2:].strip()
                 # logging.info(f"condition: {condition}")
                 # Evaluate the condition based on the current variable states
@@ -45,17 +49,17 @@ def testing():
                     is_solvable = False
                     break
 
-            elif line.startswith("fail"):
+            elif line.startswith("fail"): # fail statement (end of the program)
                 is_solvable = False
                 break
 
-            else:
+            else: # assignment statement
                 try:
                     # Assign the value as an integer explicitly
                     exec(line, {}, variables)
                     for key, value in variables.items():
                         if isinstance(value, float):
-                            variables[key] = int(value)
+                            variables[key] = int(math.floor(value))
                 except (SyntaxError, NameError):
                     is_solvable = False
                     break
