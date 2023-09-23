@@ -1,7 +1,7 @@
 import json
 import logging
 
-from flask import request
+from flask import request, Response
 
 from routes import app
 
@@ -43,4 +43,6 @@ def add_oil():
                 break
 
     logging.info({k:v for k,v in schedule.items() if v})
-    return json.dumps([{k:v for k,v in schedule.items() if v}])
+    response_data = json.dumps([{k:v for k,v in schedule.items() if v}])
+
+    return Response(response_data, mimetype='application/json')
