@@ -7,6 +7,7 @@ from routes import app
 
 logger = logging.getLogger(__name__)
 
+# You got wrong answer(s) for question 6,9
 @app.route('/railway-builder', methods=['POST'])
 def testing():
     data = request.get_json()
@@ -17,9 +18,10 @@ def testing():
     
     for entry in data:
         values = entry.split(", ")
+        logging.info("values sent for evaluation {}".format(values))
         length_of_railway = int(values[0])
         number_of_types_of_track_piece = int(values[1]) # this is actually useless
-        track_pieces = list(map(int, values[2:]))
+        track_pieces = list(map(int, values[2:2+number_of_types_of_track_piece]))
         
         combinations = [0] * (length_of_railway + 1)
         combinations[0] = 1 # initial condition
