@@ -7,7 +7,7 @@ from routes import app
 
 logger = logging.getLogger(__name__)
 
-@app.route('/evalute', methods=['POST'])
+@app.route('/evaluate', methods=['POST'])
 def evaluate():
     data = request.get_json()
     logging.info("data sent for evaluation {}".format(data))
@@ -22,7 +22,7 @@ def evaluate():
         track_pieces = list(map(int, values[2:]))
         
         combinations = [0] * (length_of_railway + 1)
-        combinations[0] = 1 # initial count (itself)
+        combinations[0] = 1 # initial condition
         
         for piece in track_pieces:
             for i in range(piece, length_of_railway + 1):
