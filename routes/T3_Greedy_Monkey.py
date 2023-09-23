@@ -6,11 +6,11 @@ from flask import request
 from routes import app
 
 # My import
-import functools
+# import functools
 
-@functools.lru_cache
-def dp(i, j):
-    return dp[i][j]
+# @functools.lru_cache
+# def dp(i, j):
+#     return dp[i][j]
 
 logger = logging.getLogger(__name__)
 
@@ -23,7 +23,7 @@ def testing():
     n, max_w, max_v = len(data["f"]), data["w"], data["v"]
 
     # try try top down dp
-    dp = [[0 for _ in range(max_v+1)]  for __ in range(max_w+1)] # dp[i][j] is the max val for weight i and volume j
+    dp = [[0]*(max_v+1) for _ in range(max_w+1)] # dp[i][j] is the max val for weight i and volume j
 
     for i in range(1, n+1): # for each fruit
         w, v, val = data["f"][i-1] # weight, volume, value of the fruit
