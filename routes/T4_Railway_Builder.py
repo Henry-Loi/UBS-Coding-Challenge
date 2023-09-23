@@ -7,7 +7,7 @@ from routes import app
 
 logger = logging.getLogger(__name__)
 
-@app.route('/evaluate', methods=['POST'])
+@app.route('https://ubs-henry.onrender.com/evaluate', methods=['POST'])
 def testing():
     data = request.get_json()
     logging.info("data sent for evaluation {}".format(data))
