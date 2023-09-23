@@ -34,7 +34,7 @@ def testing():
                 # Evaluate the condition based on the current variable states
                 try:
                     if eval(condition, {}, variables):
-                        logging.info("condition is true")   
+                        logging.info("condition is true")
                         continue  # Condition is true, continue to the next line
                     else:
                         logging.info("condition is false")
@@ -51,7 +51,11 @@ def testing():
 
             else:
                 try:
+                    # Assign the value as an integer explicitly
                     exec(line, {}, variables)
+                    for key, value in variables.items():
+                        if isinstance(value, float):
+                            variables[key] = int(value)
                 except (SyntaxError, NameError):
                     is_solvable = False
                     break
