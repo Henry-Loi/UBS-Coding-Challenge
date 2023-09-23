@@ -10,7 +10,7 @@ from routes import app
 
 logger = logging.getLogger(__name__)
 
-@app.route('/chinese-wall', methods=['GET'])
+@app.route('/chinese-wall', methods=['POST'])
 def add_oil():
     lesson_requests = request.get_json()
     
