@@ -6,6 +6,7 @@ from flask import request
 from routes import app
 
 # My import
+import numpy as np
 
 logger = logging.getLogger(__name__)
 
@@ -18,7 +19,7 @@ def testing():
     result, n, max_w, max_v = 0, len(data["f"]), data["w"], data["v"]
 
     # try try top down dp
-    dp = [[0 for _ in range(max_v+1)]  for __ in range(max_w+1)] # dp[i][j] is the max val for weight i and volume j
+    dp = np.zeros((max_w+1, max_v+1)) # dp[i][j] is the max val for weight i and volume j
 
     for i in range(1, n+1): # for each fruit
         w, v, val = data["f"][i-1] # weight, volume, value of the fruit
@@ -28,4 +29,4 @@ def testing():
     # my code ends here
 
     # logging.info("My result :{}".format(result))
-    return json.dumps(dp[max_w][max_v])
+    return json.dumps(int(dp[max_w][max_v]))
