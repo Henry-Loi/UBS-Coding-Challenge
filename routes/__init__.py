@@ -9,5 +9,7 @@ app = Flask(__name__)
 
 # import routes.Railway_Builder.T4_Railway_Builder
 
+import routes.Parking_Lot.T5_Parking_Lot
+
 # import routes.Swiss_Byte.T6_Swiss_Byte
-import routes.The_Chinese_Wall.T6_Chinese_Wall
+# import routes.The_Chinese_Wall.T6_Chinese_Wall
