@@ -1,0 +1,7999 @@
+[
+    {
+        "lessonRequestId": "LR478",
+        "duration": 8,
+        "potentialEarnings": 3440,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR202",
+        "duration": 1,
+        "potentialEarnings": 432,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR280",
+        "duration": 2,
+        "potentialEarnings": 876,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR729",
+        "duration": 7,
+        "potentialEarnings": 3087,
+        "availableDays": [
+            "tuesday",
+            "wednesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR388",
+        "duration": 7,
+        "potentialEarnings": 3227,
+        "availableDays": [
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR167",
+        "duration": 11,
+        "potentialEarnings": 4697,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR79",
+        "duration": 12,
+        "potentialEarnings": 5280,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR888",
+        "duration": 10,
+        "potentialEarnings": 4270,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR183",
+        "duration": 12,
+        "potentialEarnings": 5292,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR12",
+        "duration": 6,
+        "potentialEarnings": 2568,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR41",
+        "duration": 10,
+        "potentialEarnings": 4420,
+        "availableDays": [
+            "tuesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR854",
+        "duration": 2,
+        "potentialEarnings": 862,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR231",
+        "duration": 5,
+        "potentialEarnings": 2190,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR818",
+        "duration": 9,
+        "potentialEarnings": 3951,
+        "availableDays": [
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR498",
+        "duration": 6,
+        "potentialEarnings": 2640,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR887",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR28",
+        "duration": 4,
+        "potentialEarnings": 1688,
+        "availableDays": [
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR984",
+        "duration": 13,
+        "potentialEarnings": 5616,
+        "availableDays": [
+            "tuesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR200",
+        "duration": 1,
+        "potentialEarnings": 423,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR628",
+        "duration": 5,
+        "potentialEarnings": 2185,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR354",
+        "duration": 7,
+        "potentialEarnings": 2968,
+        "availableDays": [
+            "sunday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR327",
+        "duration": 8,
+        "potentialEarnings": 3464,
+        "availableDays": [
+            "saturday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR689",
+        "duration": 12,
+        "potentialEarnings": 5112,
+        "availableDays": [
+            "saturday",
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR655",
+        "duration": 7,
+        "potentialEarnings": 2954,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR86",
+        "duration": 13,
+        "potentialEarnings": 5551,
+        "availableDays": [
+            "tuesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR55",
+        "duration": 9,
+        "potentialEarnings": 3987,
+        "availableDays": [
+            "tuesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR40",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR105",
+        "duration": 6,
+        "potentialEarnings": 2574,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR962",
+        "duration": 10,
+        "potentialEarnings": 4290,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR523",
+        "duration": 7,
+        "potentialEarnings": 2954,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR831",
+        "duration": 13,
+        "potentialEarnings": 5590,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR249",
+        "duration": 5,
+        "potentialEarnings": 2190,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR700",
+        "duration": 12,
+        "potentialEarnings": 5124,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR477",
+        "duration": 2,
+        "potentialEarnings": 864,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR146",
+        "duration": 10,
+        "potentialEarnings": 4210,
+        "availableDays": [
+            "tuesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR112",
+        "duration": 4,
+        "potentialEarnings": 1764,
+        "availableDays": [
+            "sunday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR796",
+        "duration": 1,
+        "potentialEarnings": 461,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR496",
+        "duration": 2,
+        "potentialEarnings": 876,
+        "availableDays": [
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR665",
+        "duration": 2,
+        "potentialEarnings": 886,
+        "availableDays": [
+            "tuesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR663",
+        "duration": 9,
+        "potentialEarnings": 3996,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR328",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR627",
+        "duration": 7,
+        "potentialEarnings": 3108,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR193",
+        "duration": 7,
+        "potentialEarnings": 3094,
+        "availableDays": [
+            "tuesday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR412",
+        "duration": 12,
+        "potentialEarnings": 5268,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR380",
+        "duration": 5,
+        "potentialEarnings": 2190,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR439",
+        "duration": 11,
+        "potentialEarnings": 4818,
+        "availableDays": [
+            "tuesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR765",
+        "duration": 4,
+        "potentialEarnings": 1756,
+        "availableDays": [
+            "sunday",
+            "saturday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR592",
+        "duration": 3,
+        "potentialEarnings": 1308,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR878",
+        "duration": 9,
+        "potentialEarnings": 3834,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR671",
+        "duration": 7,
+        "potentialEarnings": 3010,
+        "availableDays": [
+            "sunday",
+            "tuesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR448",
+        "duration": 13,
+        "potentialEarnings": 5629,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR303",
+        "duration": 12,
+        "potentialEarnings": 5148,
+        "availableDays": [
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR42",
+        "duration": 1,
+        "potentialEarnings": 433,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR250",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR994",
+        "duration": 7,
+        "potentialEarnings": 3087,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR485",
+        "duration": 1,
+        "potentialEarnings": 421,
+        "availableDays": [
+            "saturday",
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR217",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "sunday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR163",
+        "duration": 13,
+        "potentialEarnings": 5668,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "wednesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR715",
+        "duration": 6,
+        "potentialEarnings": 2526,
+        "availableDays": [
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR758",
+        "duration": 8,
+        "potentialEarnings": 3504,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR206",
+        "duration": 9,
+        "potentialEarnings": 3906,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR731",
+        "duration": 5,
+        "potentialEarnings": 2100,
+        "availableDays": [
+            "wednesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR370",
+        "duration": 5,
+        "potentialEarnings": 2155,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR480",
+        "duration": 7,
+        "potentialEarnings": 2954,
+        "availableDays": [
+            "sunday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR69",
+        "duration": 5,
+        "potentialEarnings": 2115,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR976",
+        "duration": 8,
+        "potentialEarnings": 3496,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR178",
+        "duration": 3,
+        "potentialEarnings": 1326,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR798",
+        "duration": 4,
+        "potentialEarnings": 1712,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR980",
+        "duration": 5,
+        "potentialEarnings": 2170,
+        "availableDays": [
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR575",
+        "duration": 9,
+        "potentialEarnings": 3969,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR269",
+        "duration": 5,
+        "potentialEarnings": 2190,
+        "availableDays": [
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR914",
+        "duration": 4,
+        "potentialEarnings": 1772,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR804",
+        "duration": 5,
+        "potentialEarnings": 2130,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR381",
+        "duration": 12,
+        "potentialEarnings": 5292,
+        "availableDays": [
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR604",
+        "duration": 3,
+        "potentialEarnings": 1332,
+        "availableDays": [
+            "sunday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR470",
+        "duration": 11,
+        "potentialEarnings": 4642,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR550",
+        "duration": 2,
+        "potentialEarnings": 844,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR518",
+        "duration": 2,
+        "potentialEarnings": 852,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR137",
+        "duration": 3,
+        "potentialEarnings": 1287,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR299",
+        "duration": 8,
+        "potentialEarnings": 3520,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR739",
+        "duration": 1,
+        "potentialEarnings": 420,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR581",
+        "duration": 5,
+        "potentialEarnings": 2195,
+        "availableDays": [
+            "sunday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR694",
+        "duration": 3,
+        "potentialEarnings": 1263,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR570",
+        "duration": 10,
+        "potentialEarnings": 4360,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR464",
+        "duration": 7,
+        "potentialEarnings": 3087,
+        "availableDays": [
+            "tuesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR125",
+        "duration": 2,
+        "potentialEarnings": 876,
+        "availableDays": [
+            "wednesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR821",
+        "duration": 6,
+        "potentialEarnings": 2532,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR830",
+        "duration": 7,
+        "potentialEarnings": 3045,
+        "availableDays": [
+            "saturday",
+            "wednesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR931",
+        "duration": 6,
+        "potentialEarnings": 2658,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR787",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR909",
+        "duration": 3,
+        "potentialEarnings": 1332,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR956",
+        "duration": 12,
+        "potentialEarnings": 5076,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR911",
+        "duration": 10,
+        "potentialEarnings": 4250,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR312",
+        "duration": 2,
+        "potentialEarnings": 848,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR21",
+        "duration": 6,
+        "potentialEarnings": 2616,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR877",
+        "duration": 4,
+        "potentialEarnings": 1716,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR605",
+        "duration": 1,
+        "potentialEarnings": 457,
+        "availableDays": [
+            "saturday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR33",
+        "duration": 5,
+        "potentialEarnings": 2130,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR425",
+        "duration": 9,
+        "potentialEarnings": 3789,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR212",
+        "duration": 12,
+        "potentialEarnings": 5124,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR38",
+        "duration": 4,
+        "potentialEarnings": 1716,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR903",
+        "duration": 6,
+        "potentialEarnings": 2664,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR941",
+        "duration": 13,
+        "potentialEarnings": 5512,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR123",
+        "duration": 5,
+        "potentialEarnings": 2105,
+        "availableDays": [
+            "wednesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR233",
+        "duration": 3,
+        "potentialEarnings": 1314,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR63",
+        "duration": 1,
+        "potentialEarnings": 444,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR306",
+        "duration": 11,
+        "potentialEarnings": 4840,
+        "availableDays": [
+            "tuesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR334",
+        "duration": 4,
+        "potentialEarnings": 1764,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR150",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR749",
+        "duration": 1,
+        "potentialEarnings": 442,
+        "availableDays": [
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR806",
+        "duration": 1,
+        "potentialEarnings": 428,
+        "availableDays": [
+            "tuesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR46",
+        "duration": 1,
+        "potentialEarnings": 420,
+        "availableDays": [
+            "saturday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR284",
+        "duration": 9,
+        "potentialEarnings": 3825,
+        "availableDays": [
+            "saturday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR905",
+        "duration": 2,
+        "potentialEarnings": 882,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR246",
+        "duration": 7,
+        "potentialEarnings": 3066,
+        "availableDays": [
+            "tuesday",
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR342",
+        "duration": 9,
+        "potentialEarnings": 3789,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR848",
+        "duration": 3,
+        "potentialEarnings": 1284,
+        "availableDays": [
+            "saturday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR403",
+        "duration": 9,
+        "potentialEarnings": 3852,
+        "availableDays": [
+            "tuesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR34",
+        "duration": 11,
+        "potentialEarnings": 4752,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR443",
+        "duration": 3,
+        "potentialEarnings": 1302,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR297",
+        "duration": 1,
+        "potentialEarnings": 442,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR347",
+        "duration": 13,
+        "potentialEarnings": 5668,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR684",
+        "duration": 11,
+        "potentialEarnings": 4730,
+        "availableDays": [
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR762",
+        "duration": 13,
+        "potentialEarnings": 5772,
+        "availableDays": [
+            "tuesday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR244",
+        "duration": 9,
+        "potentialEarnings": 3807,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR314",
+        "duration": 5,
+        "potentialEarnings": 2175,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR691",
+        "duration": 3,
+        "potentialEarnings": 1299,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR706",
+        "duration": 2,
+        "potentialEarnings": 850,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR438",
+        "duration": 7,
+        "potentialEarnings": 3052,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "wednesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR668",
+        "duration": 6,
+        "potentialEarnings": 2520,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR5",
+        "duration": 6,
+        "potentialEarnings": 2544,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR532",
+        "duration": 2,
+        "potentialEarnings": 842,
+        "availableDays": [
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR672",
+        "duration": 1,
+        "potentialEarnings": 441,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR534",
+        "duration": 5,
+        "potentialEarnings": 2140,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR468",
+        "duration": 3,
+        "potentialEarnings": 1269,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR132",
+        "duration": 8,
+        "potentialEarnings": 3376,
+        "availableDays": [
+            "sunday",
+            "wednesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR216",
+        "duration": 2,
+        "potentialEarnings": 874,
+        "availableDays": [
+            "tuesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR37",
+        "duration": 6,
+        "potentialEarnings": 2652,
+        "availableDays": [
+            "saturday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR606",
+        "duration": 2,
+        "potentialEarnings": 842,
+        "availableDays": [
+            "saturday",
+            "tuesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR916",
+        "duration": 11,
+        "potentialEarnings": 4840,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR313",
+        "duration": 9,
+        "potentialEarnings": 3978,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR884",
+        "duration": 12,
+        "potentialEarnings": 5304,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR858",
+        "duration": 10,
+        "potentialEarnings": 4370,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR422",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR926",
+        "duration": 12,
+        "potentialEarnings": 5112,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR161",
+        "duration": 7,
+        "potentialEarnings": 2954,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR390",
+        "duration": 3,
+        "potentialEarnings": 1296,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR886",
+        "duration": 12,
+        "potentialEarnings": 5220,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR271",
+        "duration": 8,
+        "potentialEarnings": 3400,
+        "availableDays": [
+            "saturday",
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR955",
+        "duration": 12,
+        "potentialEarnings": 5112,
+        "availableDays": [
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR940",
+        "duration": 4,
+        "potentialEarnings": 1716,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR393",
+        "duration": 8,
+        "potentialEarnings": 3496,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR94",
+        "duration": 4,
+        "potentialEarnings": 1736,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR612",
+        "duration": 6,
+        "potentialEarnings": 2628,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR846",
+        "duration": 9,
+        "potentialEarnings": 3825,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR364",
+        "duration": 4,
+        "potentialEarnings": 1772,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR894",
+        "duration": 5,
+        "potentialEarnings": 2210,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR351",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR400",
+        "duration": 12,
+        "potentialEarnings": 5328,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR414",
+        "duration": 1,
+        "potentialEarnings": 467,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR49",
+        "duration": 11,
+        "potentialEarnings": 4785,
+        "availableDays": [
+            "saturday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR842",
+        "duration": 2,
+        "potentialEarnings": 850,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR919",
+        "duration": 11,
+        "potentialEarnings": 4884,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR973",
+        "duration": 13,
+        "potentialEarnings": 5603,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR660",
+        "duration": 10,
+        "potentialEarnings": 4250,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR113",
+        "duration": 11,
+        "potentialEarnings": 4873,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR497",
+        "duration": 11,
+        "potentialEarnings": 4829,
+        "availableDays": [
+            "sunday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR411",
+        "duration": 4,
+        "potentialEarnings": 1772,
+        "availableDays": [
+            "sunday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR410",
+        "duration": 3,
+        "potentialEarnings": 1317,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR72",
+        "duration": 10,
+        "potentialEarnings": 4310,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR572",
+        "duration": 7,
+        "potentialEarnings": 3073,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR275",
+        "duration": 1,
+        "potentialEarnings": 431,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR263",
+        "duration": 11,
+        "potentialEarnings": 4708,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR475",
+        "duration": 1,
+        "potentialEarnings": 462,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR946",
+        "duration": 13,
+        "potentialEarnings": 5629,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR841",
+        "duration": 7,
+        "potentialEarnings": 3017,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR259",
+        "duration": 8,
+        "potentialEarnings": 3376,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR99",
+        "duration": 8,
+        "potentialEarnings": 3472,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR512",
+        "duration": 8,
+        "potentialEarnings": 3384,
+        "availableDays": [
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR341",
+        "duration": 7,
+        "potentialEarnings": 3073,
+        "availableDays": [
+            "sunday",
+            "wednesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR850",
+        "duration": 4,
+        "potentialEarnings": 1700,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR844",
+        "duration": 3,
+        "potentialEarnings": 1287,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR542",
+        "duration": 8,
+        "potentialEarnings": 3376,
+        "availableDays": [
+            "sunday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR557",
+        "duration": 5,
+        "potentialEarnings": 2145,
+        "availableDays": [
+            "sunday",
+            "wednesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR736",
+        "duration": 10,
+        "potentialEarnings": 4400,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR220",
+        "duration": 7,
+        "potentialEarnings": 3108,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR247",
+        "duration": 1,
+        "potentialEarnings": 469,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR900",
+        "duration": 12,
+        "potentialEarnings": 5112,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR339",
+        "duration": 1,
+        "potentialEarnings": 426,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR11",
+        "duration": 1,
+        "potentialEarnings": 434,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR25",
+        "duration": 10,
+        "potentialEarnings": 4310,
+        "availableDays": [
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR770",
+        "duration": 6,
+        "potentialEarnings": 2580,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR855",
+        "duration": 2,
+        "potentialEarnings": 854,
+        "availableDays": [
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR717",
+        "duration": 9,
+        "potentialEarnings": 3798,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR815",
+        "duration": 1,
+        "potentialEarnings": 429,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR676",
+        "duration": 2,
+        "potentialEarnings": 910,
+        "availableDays": [
+            "sunday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR305",
+        "duration": 12,
+        "potentialEarnings": 5292,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR537",
+        "duration": 11,
+        "potentialEarnings": 4840,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR307",
+        "duration": 1,
+        "potentialEarnings": 461,
+        "availableDays": [
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR505",
+        "duration": 6,
+        "potentialEarnings": 2808,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR196",
+        "duration": 4,
+        "potentialEarnings": 1744,
+        "availableDays": [
+            "tuesday",
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR51",
+        "duration": 2,
+        "potentialEarnings": 854,
+        "availableDays": [
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR447",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "wednesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR283",
+        "duration": 7,
+        "potentialEarnings": 3073,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR539",
+        "duration": 5,
+        "potentialEarnings": 2100,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "friday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR43",
+        "duration": 12,
+        "potentialEarnings": 5328,
+        "availableDays": [
+            "saturday",
+            "tuesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR431",
+        "duration": 10,
+        "potentialEarnings": 4370,
+        "availableDays": [
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR791",
+        "duration": 7,
+        "potentialEarnings": 3073,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR230",
+        "duration": 11,
+        "potentialEarnings": 4730,
+        "availableDays": [
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR36",
+        "duration": 1,
+        "potentialEarnings": 461,
+        "availableDays": [
+            "saturday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR117",
+        "duration": 1,
+        "potentialEarnings": 455,
+        "availableDays": [
+            "sunday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR998",
+        "duration": 5,
+        "potentialEarnings": 2160,
+        "availableDays": [
+            "saturday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR180",
+        "duration": 2,
+        "potentialEarnings": 852,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR169",
+        "duration": 13,
+        "potentialEarnings": 5759,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR207",
+        "duration": 10,
+        "potentialEarnings": 4350,
+        "availableDays": [
+            "sunday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR873",
+        "duration": 3,
+        "potentialEarnings": 1272,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR982",
+        "duration": 9,
+        "potentialEarnings": 3798,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR350",
+        "duration": 6,
+        "potentialEarnings": 2598,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR288",
+        "duration": 3,
+        "potentialEarnings": 1332,
+        "availableDays": [
+            "sunday",
+            "wednesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR384",
+        "duration": 8,
+        "potentialEarnings": 3432,
+        "availableDays": [
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR957",
+        "duration": 13,
+        "potentialEarnings": 5473,
+        "availableDays": [
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR614",
+        "duration": 1,
+        "potentialEarnings": 435,
+        "availableDays": [
+            "sunday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR84",
+        "duration": 6,
+        "potentialEarnings": 2598,
+        "availableDays": [
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR133",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR967",
+        "duration": 6,
+        "potentialEarnings": 2592,
+        "availableDays": [
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR837",
+        "duration": 3,
+        "potentialEarnings": 1332,
+        "availableDays": [
+            "tuesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR501",
+        "duration": 4,
+        "potentialEarnings": 1760,
+        "availableDays": [
+            "tuesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR365",
+        "duration": 5,
+        "potentialEarnings": 2115,
+        "availableDays": [
+            "sunday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR336",
+        "duration": 5,
+        "potentialEarnings": 2190,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR913",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR197",
+        "duration": 4,
+        "potentialEarnings": 1776,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR795",
+        "duration": 7,
+        "potentialEarnings": 3101,
+        "availableDays": [
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR965",
+        "duration": 7,
+        "potentialEarnings": 2947,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR619",
+        "duration": 4,
+        "potentialEarnings": 1728,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR781",
+        "duration": 12,
+        "potentialEarnings": 5088,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR713",
+        "duration": 1,
+        "potentialEarnings": 445,
+        "availableDays": [
+            "sunday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR525",
+        "duration": 8,
+        "potentialEarnings": 3416,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR23",
+        "duration": 10,
+        "potentialEarnings": 4400,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR372",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR149",
+        "duration": 2,
+        "potentialEarnings": 880,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR995",
+        "duration": 2,
+        "potentialEarnings": 846,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR617",
+        "duration": 10,
+        "potentialEarnings": 4420,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR126",
+        "duration": 1,
+        "potentialEarnings": 442,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR659",
+        "duration": 4,
+        "potentialEarnings": 1772,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR2",
+        "duration": 7,
+        "potentialEarnings": 2975,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR427",
+        "duration": 6,
+        "potentialEarnings": 2640,
+        "availableDays": [
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR373",
+        "duration": 3,
+        "potentialEarnings": 1311,
+        "availableDays": [
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR121",
+        "duration": 1,
+        "potentialEarnings": 450,
+        "availableDays": [
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR176",
+        "duration": 9,
+        "potentialEarnings": 3825,
+        "availableDays": [
+            "saturday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR551",
+        "duration": 10,
+        "potentialEarnings": 4390,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR577",
+        "duration": 3,
+        "potentialEarnings": 1263,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR696",
+        "duration": 2,
+        "potentialEarnings": 860,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR67",
+        "duration": 12,
+        "potentialEarnings": 5232,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR871",
+        "duration": 6,
+        "potentialEarnings": 2628,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR773",
+        "duration": 10,
+        "potentialEarnings": 4220,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR906",
+        "duration": 12,
+        "potentialEarnings": 5232,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR680",
+        "duration": 10,
+        "potentialEarnings": 4330,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR164",
+        "duration": 7,
+        "potentialEarnings": 2940,
+        "availableDays": [
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR175",
+        "duration": 13,
+        "potentialEarnings": 5733,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR100",
+        "duration": 6,
+        "potentialEarnings": 2538,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR507",
+        "duration": 1,
+        "potentialEarnings": 466,
+        "availableDays": [
+            "sunday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR190",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR764",
+        "duration": 5,
+        "potentialEarnings": 2145,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR786",
+        "duration": 4,
+        "potentialEarnings": 1696,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR473",
+        "duration": 3,
+        "potentialEarnings": 1284,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR827",
+        "duration": 4,
+        "potentialEarnings": 1864,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR252",
+        "duration": 8,
+        "potentialEarnings": 3456,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR329",
+        "duration": 8,
+        "potentialEarnings": 3400,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR64",
+        "duration": 4,
+        "potentialEarnings": 1736,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR950",
+        "duration": 10,
+        "potentialEarnings": 4400,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR669",
+        "duration": 1,
+        "potentialEarnings": 466,
+        "availableDays": [
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR374",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR826",
+        "duration": 6,
+        "potentialEarnings": 2556,
+        "availableDays": [
+            "sunday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR302",
+        "duration": 3,
+        "potentialEarnings": 1332,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR227",
+        "duration": 10,
+        "potentialEarnings": 4290,
+        "availableDays": [
+            "saturday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR636",
+        "duration": 10,
+        "potentialEarnings": 4270,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR571",
+        "duration": 12,
+        "potentialEarnings": 5064,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR66",
+        "duration": 13,
+        "potentialEarnings": 5720,
+        "availableDays": [
+            "sunday",
+            "saturday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR780",
+        "duration": 1,
+        "potentialEarnings": 420,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR616",
+        "duration": 4,
+        "potentialEarnings": 1712,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR335",
+        "duration": 2,
+        "potentialEarnings": 878,
+        "availableDays": [
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR661",
+        "duration": 4,
+        "potentialEarnings": 1776,
+        "availableDays": [
+            "saturday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR472",
+        "duration": 5,
+        "potentialEarnings": 2160,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "wednesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR331",
+        "duration": 8,
+        "potentialEarnings": 3448,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR843",
+        "duration": 5,
+        "potentialEarnings": 2130,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR255",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "tuesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR495",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR170",
+        "duration": 5,
+        "potentialEarnings": 2110,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR375",
+        "duration": 12,
+        "potentialEarnings": 5268,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR261",
+        "duration": 2,
+        "potentialEarnings": 882,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR819",
+        "duration": 6,
+        "potentialEarnings": 2556,
+        "availableDays": [
+            "tuesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR154",
+        "duration": 2,
+        "potentialEarnings": 862,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR367",
+        "duration": 3,
+        "potentialEarnings": 1275,
+        "availableDays": [
+            "sunday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR792",
+        "duration": 7,
+        "potentialEarnings": 3080,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR774",
+        "duration": 13,
+        "potentialEarnings": 5512,
+        "availableDays": [
+            "tuesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR160",
+        "duration": 3,
+        "potentialEarnings": 1329,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR391",
+        "duration": 3,
+        "potentialEarnings": 1314,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "wednesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR383",
+        "duration": 9,
+        "potentialEarnings": 3969,
+        "availableDays": [
+            "tuesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR912",
+        "duration": 12,
+        "potentialEarnings": 5184,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR332",
+        "duration": 13,
+        "potentialEarnings": 5473,
+        "availableDays": [
+            "saturday",
+            "wednesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR580",
+        "duration": 7,
+        "potentialEarnings": 3003,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR98",
+        "duration": 11,
+        "potentialEarnings": 4686,
+        "availableDays": [
+            "sunday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR488",
+        "duration": 5,
+        "potentialEarnings": 2120,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR460",
+        "duration": 8,
+        "potentialEarnings": 3384,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR964",
+        "duration": 13,
+        "potentialEarnings": 5616,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR491",
+        "duration": 12,
+        "potentialEarnings": 5148,
+        "availableDays": [
+            "sunday",
+            "wednesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR899",
+        "duration": 2,
+        "potentialEarnings": 930,
+        "availableDays": [
+            "tuesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR761",
+        "duration": 11,
+        "potentialEarnings": 4631,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR262",
+        "duration": 13,
+        "potentialEarnings": 5486,
+        "availableDays": [
+            "saturday",
+            "wednesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR158",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "tuesday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR129",
+        "duration": 7,
+        "potentialEarnings": 3003,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR295",
+        "duration": 3,
+        "potentialEarnings": 1275,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR615",
+        "duration": 2,
+        "potentialEarnings": 864,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "wednesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR896",
+        "duration": 4,
+        "potentialEarnings": 1744,
+        "availableDays": [
+            "sunday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR52",
+        "duration": 1,
+        "potentialEarnings": 433,
+        "availableDays": [
+            "tuesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR96",
+        "duration": 3,
+        "potentialEarnings": 1302,
+        "availableDays": [
+            "tuesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR174",
+        "duration": 11,
+        "potentialEarnings": 4774,
+        "availableDays": [
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR974",
+        "duration": 2,
+        "potentialEarnings": 858,
+        "availableDays": [
+            "saturday",
+            "wednesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR959",
+        "duration": 12,
+        "potentialEarnings": 5316,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR338",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR325",
+        "duration": 10,
+        "potentialEarnings": 4350,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR419",
+        "duration": 11,
+        "potentialEarnings": 4620,
+        "availableDays": [
+            "tuesday",
+            "wednesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR904",
+        "duration": 5,
+        "potentialEarnings": 2205,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR441",
+        "duration": 12,
+        "potentialEarnings": 5184,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR225",
+        "duration": 9,
+        "potentialEarnings": 3960,
+        "availableDays": [
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR382",
+        "duration": 9,
+        "potentialEarnings": 3861,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR446",
+        "duration": 13,
+        "potentialEarnings": 5603,
+        "availableDays": [
+            "sunday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR521",
+        "duration": 2,
+        "potentialEarnings": 852,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR979",
+        "duration": 10,
+        "potentialEarnings": 4340,
+        "availableDays": [
+            "saturday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR240",
+        "duration": 3,
+        "potentialEarnings": 1332,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR515",
+        "duration": 6,
+        "potentialEarnings": 2640,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR520",
+        "duration": 9,
+        "potentialEarnings": 3951,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR727",
+        "duration": 13,
+        "potentialEarnings": 5473,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR651",
+        "duration": 11,
+        "potentialEarnings": 4741,
+        "availableDays": [
+            "tuesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR413",
+        "duration": 7,
+        "potentialEarnings": 2968,
+        "availableDays": [
+            "wednesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR369",
+        "duration": 1,
+        "potentialEarnings": 435,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR487",
+        "duration": 6,
+        "potentialEarnings": 2526,
+        "availableDays": [
+            "saturday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR279",
+        "duration": 10,
+        "potentialEarnings": 4240,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR245",
+        "duration": 2,
+        "potentialEarnings": 860,
+        "availableDays": [
+            "tuesday",
+            "wednesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR486",
+        "duration": 1,
+        "potentialEarnings": 437,
+        "availableDays": [
+            "sunday",
+            "wednesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR243",
+        "duration": 5,
+        "potentialEarnings": 2150,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR224",
+        "duration": 3,
+        "potentialEarnings": 1299,
+        "availableDays": [
+            "tuesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR30",
+        "duration": 13,
+        "potentialEarnings": 5603,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR242",
+        "duration": 10,
+        "potentialEarnings": 4270,
+        "availableDays": [
+            "sunday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR939",
+        "duration": 8,
+        "potentialEarnings": 3384,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR901",
+        "duration": 9,
+        "potentialEarnings": 3825,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR188",
+        "duration": 11,
+        "potentialEarnings": 4807,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR268",
+        "duration": 3,
+        "potentialEarnings": 1305,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR588",
+        "duration": 5,
+        "potentialEarnings": 2215,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR236",
+        "duration": 9,
+        "potentialEarnings": 3861,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR203",
+        "duration": 11,
+        "potentialEarnings": 4763,
+        "availableDays": [
+            "saturday",
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR664",
+        "duration": 2,
+        "potentialEarnings": 888,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR276",
+        "duration": 2,
+        "potentialEarnings": 884,
+        "availableDays": [
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR889",
+        "duration": 9,
+        "potentialEarnings": 3870,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "wednesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR890",
+        "duration": 10,
+        "potentialEarnings": 4230,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR134",
+        "duration": 7,
+        "potentialEarnings": 3010,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR772",
+        "duration": 6,
+        "potentialEarnings": 2598,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR759",
+        "duration": 2,
+        "potentialEarnings": 856,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR677",
+        "duration": 4,
+        "potentialEarnings": 1728,
+        "availableDays": [
+            "tuesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR935",
+        "duration": 6,
+        "potentialEarnings": 2658,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR469",
+        "duration": 7,
+        "potentialEarnings": 2989,
+        "availableDays": [
+            "saturday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR10",
+        "duration": 7,
+        "potentialEarnings": 3031,
+        "availableDays": [
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR274",
+        "duration": 4,
+        "potentialEarnings": 1728,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR601",
+        "duration": 2,
+        "potentialEarnings": 864,
+        "availableDays": [
+            "sunday",
+            "wednesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR8",
+        "duration": 1,
+        "potentialEarnings": 422,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR626",
+        "duration": 10,
+        "potentialEarnings": 4300,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR296",
+        "duration": 13,
+        "potentialEarnings": 5759,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR168",
+        "duration": 9,
+        "potentialEarnings": 3951,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR360",
+        "duration": 2,
+        "potentialEarnings": 854,
+        "availableDays": [
+            "saturday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR641",
+        "duration": 1,
+        "potentialEarnings": 429,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR687",
+        "duration": 13,
+        "potentialEarnings": 5603,
+        "availableDays": [
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR595",
+        "duration": 1,
+        "potentialEarnings": 439,
+        "availableDays": [
+            "tuesday",
+            "wednesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR213",
+        "duration": 10,
+        "potentialEarnings": 4420,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR122",
+        "duration": 11,
+        "potentialEarnings": 4785,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR563",
+        "duration": 2,
+        "potentialEarnings": 846,
+        "availableDays": [
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR118",
+        "duration": 2,
+        "potentialEarnings": 844,
+        "availableDays": [
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR662",
+        "duration": 3,
+        "potentialEarnings": 1332,
+        "availableDays": [
+            "sunday",
+            "wednesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR396",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR932",
+        "duration": 12,
+        "potentialEarnings": 5064,
+        "availableDays": [
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR839",
+        "duration": 4,
+        "potentialEarnings": 1876,
+        "availableDays": [
+            "tuesday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR177",
+        "duration": 4,
+        "potentialEarnings": 1716,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR725",
+        "duration": 3,
+        "potentialEarnings": 1329,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR963",
+        "duration": 5,
+        "potentialEarnings": 2180,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR990",
+        "duration": 13,
+        "potentialEarnings": 5551,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR366",
+        "duration": 3,
+        "potentialEarnings": 1269,
+        "availableDays": [
+            "tuesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR75",
+        "duration": 1,
+        "potentialEarnings": 459,
+        "availableDays": [
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR716",
+        "duration": 3,
+        "potentialEarnings": 1329,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR258",
+        "duration": 7,
+        "potentialEarnings": 2996,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR209",
+        "duration": 10,
+        "potentialEarnings": 4290,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR645",
+        "duration": 9,
+        "potentialEarnings": 3789,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR450",
+        "duration": 8,
+        "potentialEarnings": 3448,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR644",
+        "duration": 3,
+        "potentialEarnings": 1278,
+        "availableDays": [
+            "saturday",
+            "wednesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR73",
+        "duration": 11,
+        "potentialEarnings": 4774,
+        "availableDays": [
+            "tuesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR459",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR106",
+        "duration": 4,
+        "potentialEarnings": 1708,
+        "availableDays": [
+            "sunday",
+            "wednesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR128",
+        "duration": 4,
+        "potentialEarnings": 1704,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR872",
+        "duration": 11,
+        "potentialEarnings": 4763,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR908",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "tuesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR735",
+        "duration": 13,
+        "potentialEarnings": 5707,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR116",
+        "duration": 12,
+        "potentialEarnings": 5112,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR730",
+        "duration": 1,
+        "potentialEarnings": 446,
+        "availableDays": [
+            "sunday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR817",
+        "duration": 1,
+        "potentialEarnings": 457,
+        "availableDays": [
+            "sunday",
+            "wednesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR19",
+        "duration": 7,
+        "potentialEarnings": 2989,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR140",
+        "duration": 5,
+        "potentialEarnings": 2130,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR602",
+        "duration": 13,
+        "potentialEarnings": 5538,
+        "availableDays": [
+            "tuesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR596",
+        "duration": 10,
+        "potentialEarnings": 4320,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR467",
+        "duration": 10,
+        "potentialEarnings": 4270,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR922",
+        "duration": 2,
+        "potentialEarnings": 848,
+        "availableDays": [
+            "sunday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR9",
+        "duration": 11,
+        "potentialEarnings": 4642,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR863",
+        "duration": 8,
+        "potentialEarnings": 3728,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR949",
+        "duration": 5,
+        "potentialEarnings": 2175,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR361",
+        "duration": 9,
+        "potentialEarnings": 3933,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR345",
+        "duration": 10,
+        "potentialEarnings": 4390,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR253",
+        "duration": 4,
+        "potentialEarnings": 1688,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR948",
+        "duration": 11,
+        "potentialEarnings": 4620,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR215",
+        "duration": 3,
+        "potentialEarnings": 1323,
+        "availableDays": [
+            "wednesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR647",
+        "duration": 1,
+        "potentialEarnings": 429,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR59",
+        "duration": 7,
+        "potentialEarnings": 3101,
+        "availableDays": [
+            "saturday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR624",
+        "duration": 3,
+        "potentialEarnings": 1293,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR502",
+        "duration": 9,
+        "potentialEarnings": 3915,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR56",
+        "duration": 7,
+        "potentialEarnings": 3003,
+        "availableDays": [
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR254",
+        "duration": 5,
+        "potentialEarnings": 2150,
+        "availableDays": [
+            "sunday",
+            "saturday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR353",
+        "duration": 8,
+        "potentialEarnings": 3544,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR876",
+        "duration": 8,
+        "potentialEarnings": 3464,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR524",
+        "duration": 3,
+        "potentialEarnings": 1311,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR85",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR294",
+        "duration": 10,
+        "potentialEarnings": 4440,
+        "availableDays": [
+            "tuesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR237",
+        "duration": 6,
+        "potentialEarnings": 2586,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR278",
+        "duration": 11,
+        "potentialEarnings": 4763,
+        "availableDays": [
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR864",
+        "duration": 2,
+        "potentialEarnings": 880,
+        "availableDays": [
+            "sunday",
+            "wednesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR120",
+        "duration": 9,
+        "potentialEarnings": 3861,
+        "availableDays": [
+            "saturday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR707",
+        "duration": 1,
+        "potentialEarnings": 442,
+        "availableDays": [
+            "saturday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR87",
+        "duration": 10,
+        "potentialEarnings": 4280,
+        "availableDays": [
+            "tuesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR171",
+        "duration": 2,
+        "potentialEarnings": 848,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR50",
+        "duration": 1,
+        "potentialEarnings": 425,
+        "availableDays": [
+            "sunday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR195",
+        "duration": 6,
+        "potentialEarnings": 2562,
+        "availableDays": [
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR763",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "saturday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR708",
+        "duration": 5,
+        "potentialEarnings": 2150,
+        "availableDays": [
+            "tuesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR553",
+        "duration": 12,
+        "potentialEarnings": 5148,
+        "availableDays": [
+            "saturday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR204",
+        "duration": 2,
+        "potentialEarnings": 842,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR362",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR559",
+        "duration": 4,
+        "potentialEarnings": 1776,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR509",
+        "duration": 6,
+        "potentialEarnings": 2580,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR778",
+        "duration": 7,
+        "potentialEarnings": 3101,
+        "availableDays": [
+            "saturday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR265",
+        "duration": 13,
+        "potentialEarnings": 5499,
+        "availableDays": [
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR944",
+        "duration": 8,
+        "potentialEarnings": 3392,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR697",
+        "duration": 12,
+        "potentialEarnings": 5268,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR387",
+        "duration": 4,
+        "potentialEarnings": 1772,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR323",
+        "duration": 12,
+        "potentialEarnings": 5208,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR969",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR102",
+        "duration": 11,
+        "potentialEarnings": 4631,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR639",
+        "duration": 6,
+        "potentialEarnings": 2556,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR681",
+        "duration": 13,
+        "potentialEarnings": 5616,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR983",
+        "duration": 1,
+        "potentialEarnings": 442,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR358",
+        "duration": 5,
+        "potentialEarnings": 2140,
+        "availableDays": [
+            "wednesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR148",
+        "duration": 11,
+        "potentialEarnings": 4708,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "wednesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR24",
+        "duration": 13,
+        "potentialEarnings": 5629,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR152",
+        "duration": 11,
+        "potentialEarnings": 4807,
+        "availableDays": [
+            "wednesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR119",
+        "duration": 7,
+        "potentialEarnings": 3003,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "wednesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR424",
+        "duration": 2,
+        "potentialEarnings": 878,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR709",
+        "duration": 2,
+        "potentialEarnings": 844,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR267",
+        "duration": 2,
+        "potentialEarnings": 862,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR54",
+        "duration": 2,
+        "potentialEarnings": 876,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR147",
+        "duration": 8,
+        "potentialEarnings": 3424,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR205",
+        "duration": 3,
+        "potentialEarnings": 1260,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR820",
+        "duration": 2,
+        "potentialEarnings": 854,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR14",
+        "duration": 13,
+        "potentialEarnings": 5707,
+        "availableDays": [
+            "saturday",
+            "wednesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR449",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR554",
+        "duration": 9,
+        "potentialEarnings": 3942,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR463",
+        "duration": 12,
+        "potentialEarnings": 5208,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR454",
+        "duration": 10,
+        "potentialEarnings": 4330,
+        "availableDays": [
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR479",
+        "duration": 7,
+        "potentialEarnings": 3080,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR650",
+        "duration": 1,
+        "potentialEarnings": 454,
+        "availableDays": [
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR992",
+        "duration": 9,
+        "potentialEarnings": 3825,
+        "availableDays": [
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR48",
+        "duration": 6,
+        "potentialEarnings": 2568,
+        "availableDays": [
+            "saturday",
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR3",
+        "duration": 7,
+        "potentialEarnings": 3038,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR722",
+        "duration": 4,
+        "potentialEarnings": 1752,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR214",
+        "duration": 12,
+        "potentialEarnings": 5064,
+        "availableDays": [
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR153",
+        "duration": 2,
+        "potentialEarnings": 850,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR417",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR895",
+        "duration": 11,
+        "potentialEarnings": 4697,
+        "availableDays": [
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR198",
+        "duration": 10,
+        "potentialEarnings": 4400,
+        "availableDays": [
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR718",
+        "duration": 2,
+        "potentialEarnings": 874,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR77",
+        "duration": 6,
+        "potentialEarnings": 2658,
+        "availableDays": [
+            "sunday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR430",
+        "duration": 13,
+        "potentialEarnings": 5538,
+        "availableDays": [
+            "saturday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR301",
+        "duration": 5,
+        "potentialEarnings": 2195,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR623",
+        "duration": 2,
+        "potentialEarnings": 860,
+        "availableDays": [
+            "sunday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR702",
+        "duration": 7,
+        "potentialEarnings": 3073,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR714",
+        "duration": 6,
+        "potentialEarnings": 2628,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR917",
+        "duration": 5,
+        "potentialEarnings": 2185,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR868",
+        "duration": 6,
+        "potentialEarnings": 2544,
+        "availableDays": [
+            "tuesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR317",
+        "duration": 8,
+        "potentialEarnings": 3544,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR519",
+        "duration": 3,
+        "potentialEarnings": 1287,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR127",
+        "duration": 13,
+        "potentialEarnings": 5772,
+        "availableDays": [
+            "tuesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR70",
+        "duration": 9,
+        "potentialEarnings": 3834,
+        "availableDays": [
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR191",
+        "duration": 7,
+        "potentialEarnings": 3073,
+        "availableDays": [
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR143",
+        "duration": 5,
+        "potentialEarnings": 2220,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR219",
+        "duration": 7,
+        "potentialEarnings": 3010,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR91",
+        "duration": 2,
+        "potentialEarnings": 868,
+        "availableDays": [
+            "saturday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR620",
+        "duration": 4,
+        "potentialEarnings": 1684,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR711",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR832",
+        "duration": 12,
+        "potentialEarnings": 5232,
+        "availableDays": [
+            "saturday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR810",
+        "duration": 10,
+        "potentialEarnings": 4350,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR194",
+        "duration": 8,
+        "potentialEarnings": 3368,
+        "availableDays": [
+            "sunday",
+            "tuesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR318",
+        "duration": 3,
+        "potentialEarnings": 1344,
+        "availableDays": [
+            "sunday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR453",
+        "duration": 11,
+        "potentialEarnings": 4653,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR875",
+        "duration": 7,
+        "potentialEarnings": 3108,
+        "availableDays": [
+            "tuesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR445",
+        "duration": 8,
+        "potentialEarnings": 3360,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR103",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "wednesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR807",
+        "duration": 10,
+        "potentialEarnings": 4410,
+        "availableDays": [
+            "sunday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR867",
+        "duration": 4,
+        "potentialEarnings": 1736,
+        "availableDays": [
+            "tuesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR109",
+        "duration": 11,
+        "potentialEarnings": 4763,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR767",
+        "duration": 6,
+        "potentialEarnings": 2556,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR156",
+        "duration": 4,
+        "potentialEarnings": 1756,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR960",
+        "duration": 6,
+        "potentialEarnings": 2526,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR26",
+        "duration": 13,
+        "potentialEarnings": 5616,
+        "availableDays": [
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR988",
+        "duration": 2,
+        "potentialEarnings": 878,
+        "availableDays": [
+            "saturday",
+            "wednesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR89",
+        "duration": 12,
+        "potentialEarnings": 5160,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR130",
+        "duration": 13,
+        "potentialEarnings": 5551,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR618",
+        "duration": 8,
+        "potentialEarnings": 3456,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR22",
+        "duration": 4,
+        "potentialEarnings": 1776,
+        "availableDays": [
+            "tuesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR555",
+        "duration": 4,
+        "potentialEarnings": 1756,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR184",
+        "duration": 2,
+        "potentialEarnings": 840,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR510",
+        "duration": 8,
+        "potentialEarnings": 3528,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR398",
+        "duration": 4,
+        "potentialEarnings": 1692,
+        "availableDays": [
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR585",
+        "duration": 13,
+        "potentialEarnings": 5655,
+        "availableDays": [
+            "saturday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR954",
+        "duration": 1,
+        "potentialEarnings": 459,
+        "availableDays": [
+            "saturday",
+            "wednesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR319",
+        "duration": 10,
+        "potentialEarnings": 4430,
+        "availableDays": [
+            "sunday",
+            "wednesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR847",
+        "duration": 1,
+        "potentialEarnings": 454,
+        "availableDays": [
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR634",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR777",
+        "duration": 5,
+        "potentialEarnings": 2175,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR637",
+        "duration": 11,
+        "potentialEarnings": 4719,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR924",
+        "duration": 11,
+        "potentialEarnings": 4807,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR78",
+        "duration": 7,
+        "potentialEarnings": 3059,
+        "availableDays": [
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR658",
+        "duration": 2,
+        "potentialEarnings": 866,
+        "availableDays": [
+            "sunday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR352",
+        "duration": 11,
+        "potentialEarnings": 4642,
+        "availableDays": [
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR591",
+        "duration": 13,
+        "potentialEarnings": 5694,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR558",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR574",
+        "duration": 3,
+        "potentialEarnings": 1305,
+        "availableDays": [
+            "sunday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR852",
+        "duration": 11,
+        "potentialEarnings": 4708,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR768",
+        "duration": 1,
+        "potentialEarnings": 431,
+        "availableDays": [
+            "saturday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR942",
+        "duration": 1,
+        "potentialEarnings": 424,
+        "availableDays": [
+            "sunday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR902",
+        "duration": 10,
+        "potentialEarnings": 4440,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR444",
+        "duration": 11,
+        "potentialEarnings": 4697,
+        "availableDays": [
+            "tuesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR451",
+        "duration": 8,
+        "potentialEarnings": 3512,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR958",
+        "duration": 13,
+        "potentialEarnings": 5733,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR298",
+        "duration": 3,
+        "potentialEarnings": 1353,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR58",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "wednesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR849",
+        "duration": 9,
+        "potentialEarnings": 3780,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR514",
+        "duration": 2,
+        "potentialEarnings": 864,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR31",
+        "duration": 5,
+        "potentialEarnings": 2105,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR987",
+        "duration": 12,
+        "potentialEarnings": 5040,
+        "availableDays": [
+            "sunday",
+            "tuesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR359",
+        "duration": 12,
+        "potentialEarnings": 5148,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR833",
+        "duration": 1,
+        "potentialEarnings": 443,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR743",
+        "duration": 6,
+        "potentialEarnings": 2556,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR311",
+        "duration": 12,
+        "potentialEarnings": 5268,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR642",
+        "duration": 11,
+        "potentialEarnings": 4851,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR928",
+        "duration": 8,
+        "potentialEarnings": 3416,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR114",
+        "duration": 4,
+        "potentialEarnings": 1772,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR528",
+        "duration": 7,
+        "potentialEarnings": 3094,
+        "availableDays": [
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR608",
+        "duration": 10,
+        "potentialEarnings": 4270,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR910",
+        "duration": 1,
+        "potentialEarnings": 426,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR527",
+        "duration": 12,
+        "potentialEarnings": 5304,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR493",
+        "duration": 8,
+        "potentialEarnings": 3464,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR741",
+        "duration": 12,
+        "potentialEarnings": 5268,
+        "availableDays": [
+            "wednesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR226",
+        "duration": 11,
+        "potentialEarnings": 4730,
+        "availableDays": [
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR32",
+        "duration": 9,
+        "potentialEarnings": 3879,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR705",
+        "duration": 7,
+        "potentialEarnings": 2989,
+        "availableDays": [
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR991",
+        "duration": 3,
+        "potentialEarnings": 1311,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR157",
+        "duration": 1,
+        "potentialEarnings": 422,
+        "availableDays": [
+            "sunday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR221",
+        "duration": 6,
+        "potentialEarnings": 2532,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR281",
+        "duration": 9,
+        "potentialEarnings": 3888,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR18",
+        "duration": 9,
+        "potentialEarnings": 3834,
+        "availableDays": [
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR420",
+        "duration": 5,
+        "potentialEarnings": 2210,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR579",
+        "duration": 4,
+        "potentialEarnings": 1728,
+        "availableDays": [
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR110",
+        "duration": 1,
+        "potentialEarnings": 432,
+        "availableDays": [
+            "sunday",
+            "tuesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR693",
+        "duration": 10,
+        "potentialEarnings": 4260,
+        "availableDays": [
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR363",
+        "duration": 11,
+        "potentialEarnings": 4675,
+        "availableDays": [
+            "tuesday",
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR856",
+        "duration": 13,
+        "potentialEarnings": 5512,
+        "availableDays": [
+            "sunday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR522",
+        "duration": 6,
+        "potentialEarnings": 2718,
+        "availableDays": [
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR333",
+        "duration": 9,
+        "potentialEarnings": 3798,
+        "availableDays": [
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR282",
+        "duration": 9,
+        "potentialEarnings": 3852,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR779",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR593",
+        "duration": 5,
+        "potentialEarnings": 2175,
+        "availableDays": [
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR564",
+        "duration": 2,
+        "potentialEarnings": 856,
+        "availableDays": [
+            "sunday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR897",
+        "duration": 10,
+        "potentialEarnings": 4350,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR835",
+        "duration": 13,
+        "potentialEarnings": 5564,
+        "availableDays": [
+            "saturday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR349",
+        "duration": 5,
+        "potentialEarnings": 2150,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR861",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR686",
+        "duration": 3,
+        "potentialEarnings": 1278,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR947",
+        "duration": 4,
+        "potentialEarnings": 1748,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "wednesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR248",
+        "duration": 12,
+        "potentialEarnings": 5208,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR569",
+        "duration": 2,
+        "potentialEarnings": 874,
+        "availableDays": [
+            "saturday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR17",
+        "duration": 8,
+        "potentialEarnings": 3448,
+        "availableDays": [
+            "sunday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR60",
+        "duration": 4,
+        "potentialEarnings": 1748,
+        "availableDays": [
+            "tuesday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR943",
+        "duration": 6,
+        "potentialEarnings": 2538,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR556",
+        "duration": 3,
+        "potentialEarnings": 1278,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR304",
+        "duration": 10,
+        "potentialEarnings": 4220,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR670",
+        "duration": 11,
+        "potentialEarnings": 4763,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR340",
+        "duration": 10,
+        "potentialEarnings": 4430,
+        "availableDays": [
+            "saturday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR437",
+        "duration": 11,
+        "potentialEarnings": 4675,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR291",
+        "duration": 9,
+        "potentialEarnings": 3825,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR800",
+        "duration": 2,
+        "potentialEarnings": 848,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR674",
+        "duration": 5,
+        "potentialEarnings": 2135,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR257",
+        "duration": 5,
+        "potentialEarnings": 2180,
+        "availableDays": [
+            "sunday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR578",
+        "duration": 12,
+        "potentialEarnings": 5280,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR567",
+        "duration": 12,
+        "potentialEarnings": 5052,
+        "availableDays": [
+            "wednesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR583",
+        "duration": 9,
+        "potentialEarnings": 3951,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR880",
+        "duration": 1,
+        "potentialEarnings": 436,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR457",
+        "duration": 4,
+        "potentialEarnings": 1700,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR688",
+        "duration": 4,
+        "potentialEarnings": 1720,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR471",
+        "duration": 4,
+        "potentialEarnings": 1704,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR155",
+        "duration": 13,
+        "potentialEarnings": 5512,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR999",
+        "duration": 11,
+        "potentialEarnings": 4862,
+        "availableDays": [
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR192",
+        "duration": 3,
+        "potentialEarnings": 1284,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR392",
+        "duration": 4,
+        "potentialEarnings": 1736,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR584",
+        "duration": 1,
+        "potentialEarnings": 455,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR915",
+        "duration": 6,
+        "potentialEarnings": 2652,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR201",
+        "duration": 3,
+        "potentialEarnings": 1275,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR953",
+        "duration": 12,
+        "potentialEarnings": 5244,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR740",
+        "duration": 3,
+        "potentialEarnings": 1305,
+        "availableDays": [
+            "sunday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR586",
+        "duration": 9,
+        "potentialEarnings": 3852,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR799",
+        "duration": 10,
+        "potentialEarnings": 4230,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR633",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "saturday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR721",
+        "duration": 12,
+        "potentialEarnings": 5040,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR141",
+        "duration": 9,
+        "potentialEarnings": 3852,
+        "availableDays": [
+            "saturday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR621",
+        "duration": 1,
+        "potentialEarnings": 443,
+        "availableDays": [
+            "sunday",
+            "friday",
+            "thursday",
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR92",
+        "duration": 12,
+        "potentialEarnings": 5268,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR699",
+        "duration": 13,
+        "potentialEarnings": 5603,
+        "availableDays": [
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR549",
+        "duration": 8,
+        "potentialEarnings": 3384,
+        "availableDays": [
+            "tuesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR723",
+        "duration": 13,
+        "potentialEarnings": 5655,
+        "availableDays": [
+            "saturday",
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR600",
+        "duration": 13,
+        "potentialEarnings": 5668,
+        "availableDays": [
+            "sunday",
+            "wednesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR996",
+        "duration": 2,
+        "potentialEarnings": 866,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR285",
+        "duration": 5,
+        "potentialEarnings": 2120,
+        "availableDays": [
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR859",
+        "duration": 6,
+        "potentialEarnings": 2664,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR458",
+        "duration": 1,
+        "potentialEarnings": 441,
+        "availableDays": [
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR139",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR186",
+        "duration": 6,
+        "potentialEarnings": 2622,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR881",
+        "duration": 7,
+        "potentialEarnings": 2975,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR823",
+        "duration": 11,
+        "potentialEarnings": 4719,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR544",
+        "duration": 8,
+        "potentialEarnings": 3432,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR535",
+        "duration": 10,
+        "potentialEarnings": 4330,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR173",
+        "duration": 12,
+        "potentialEarnings": 5112,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR179",
+        "duration": 9,
+        "potentialEarnings": 3897,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR801",
+        "duration": 11,
+        "potentialEarnings": 4686,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR27",
+        "duration": 9,
+        "potentialEarnings": 3987,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR732",
+        "duration": 4,
+        "potentialEarnings": 1732,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR885",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "sunday",
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR701",
+        "duration": 9,
+        "potentialEarnings": 3996,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR652",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR533",
+        "duration": 6,
+        "potentialEarnings": 2658,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR80",
+        "duration": 4,
+        "potentialEarnings": 1732,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR925",
+        "duration": 6,
+        "potentialEarnings": 2658,
+        "availableDays": [
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR264",
+        "duration": 5,
+        "potentialEarnings": 2210,
+        "availableDays": [
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR538",
+        "duration": 4,
+        "potentialEarnings": 1736,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR918",
+        "duration": 6,
+        "potentialEarnings": 2616,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR322",
+        "duration": 12,
+        "potentialEarnings": 5208,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR929",
+        "duration": 2,
+        "potentialEarnings": 884,
+        "availableDays": [
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR808",
+        "duration": 12,
+        "potentialEarnings": 5064,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR907",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR813",
+        "duration": 3,
+        "potentialEarnings": 1266,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR83",
+        "duration": 2,
+        "potentialEarnings": 864,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR710",
+        "duration": 2,
+        "potentialEarnings": 874,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR679",
+        "duration": 2,
+        "potentialEarnings": 870,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR582",
+        "duration": 12,
+        "potentialEarnings": 5172,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR251",
+        "duration": 7,
+        "potentialEarnings": 2982,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR490",
+        "duration": 12,
+        "potentialEarnings": 5148,
+        "availableDays": [
+            "sunday",
+            "wednesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR286",
+        "duration": 2,
+        "potentialEarnings": 882,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR1",
+        "duration": 13,
+        "potentialEarnings": 5694,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR389",
+        "duration": 10,
+        "potentialEarnings": 4290,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR565",
+        "duration": 4,
+        "potentialEarnings": 1732,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR452",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "wednesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR737",
+        "duration": 6,
+        "potentialEarnings": 2652,
+        "availableDays": [
+            "saturday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR776",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR316",
+        "duration": 5,
+        "potentialEarnings": 2110,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR724",
+        "duration": 3,
+        "potentialEarnings": 1308,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR104",
+        "duration": 6,
+        "potentialEarnings": 2598,
+        "availableDays": [
+            "sunday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR828",
+        "duration": 12,
+        "potentialEarnings": 5280,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "wednesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR20",
+        "duration": 7,
+        "potentialEarnings": 3010,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR834",
+        "duration": 4,
+        "potentialEarnings": 1700,
+        "availableDays": [
+            "tuesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR682",
+        "duration": 1,
+        "potentialEarnings": 461,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR277",
+        "duration": 2,
+        "potentialEarnings": 878,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR330",
+        "duration": 12,
+        "potentialEarnings": 5328,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR386",
+        "duration": 13,
+        "potentialEarnings": 5681,
+        "availableDays": [
+            "sunday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR862",
+        "duration": 12,
+        "potentialEarnings": 5172,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR428",
+        "duration": 12,
+        "potentialEarnings": 5280,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR785",
+        "duration": 12,
+        "potentialEarnings": 5148,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR657",
+        "duration": 4,
+        "potentialEarnings": 1728,
+        "availableDays": [
+            "saturday",
+            "wednesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR978",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "wednesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR88",
+        "duration": 8,
+        "potentialEarnings": 3536,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR415",
+        "duration": 7,
+        "potentialEarnings": 3101,
+        "availableDays": [
+            "tuesday",
+            "wednesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR822",
+        "duration": 13,
+        "potentialEarnings": 5590,
+        "availableDays": [
+            "sunday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR802",
+        "duration": 5,
+        "potentialEarnings": 2160,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR611",
+        "duration": 11,
+        "potentialEarnings": 4796,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR379",
+        "duration": 13,
+        "potentialEarnings": 5525,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR640",
+        "duration": 4,
+        "potentialEarnings": 1772,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR613",
+        "duration": 1,
+        "potentialEarnings": 444,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR138",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR794",
+        "duration": 11,
+        "potentialEarnings": 4840,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR540",
+        "duration": 13,
+        "potentialEarnings": 5538,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR775",
+        "duration": 1,
+        "potentialEarnings": 423,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR16",
+        "duration": 1,
+        "potentialEarnings": 429,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR371",
+        "duration": 5,
+        "potentialEarnings": 2135,
+        "availableDays": [
+            "tuesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR853",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "sunday",
+            "wednesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR436",
+        "duration": 13,
+        "potentialEarnings": 5642,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR632",
+        "duration": 5,
+        "potentialEarnings": 2185,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR208",
+        "duration": 12,
+        "potentialEarnings": 5328,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR975",
+        "duration": 12,
+        "potentialEarnings": 5172,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR395",
+        "duration": 5,
+        "potentialEarnings": 2230,
+        "availableDays": [
+            "saturday",
+            "wednesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR630",
+        "duration": 3,
+        "potentialEarnings": 1260,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR541",
+        "duration": 7,
+        "potentialEarnings": 3094,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR82",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR648",
+        "duration": 1,
+        "potentialEarnings": 432,
+        "availableDays": [
+            "saturday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR199",
+        "duration": 8,
+        "potentialEarnings": 3552,
+        "availableDays": [
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR35",
+        "duration": 5,
+        "potentialEarnings": 2170,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR966",
+        "duration": 6,
+        "potentialEarnings": 2622,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR377",
+        "duration": 9,
+        "potentialEarnings": 3789,
+        "availableDays": [
+            "sunday",
+            "wednesday",
+            "friday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR93",
+        "duration": 4,
+        "potentialEarnings": 1744,
+        "availableDays": [
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR181",
+        "duration": 5,
+        "potentialEarnings": 2105,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR494",
+        "duration": 11,
+        "potentialEarnings": 4796,
+        "availableDays": [
+            "sunday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR733",
+        "duration": 1,
+        "potentialEarnings": 468,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR189",
+        "duration": 12,
+        "potentialEarnings": 5256,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR961",
+        "duration": 5,
+        "potentialEarnings": 2100,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "wednesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR511",
+        "duration": 13,
+        "potentialEarnings": 5694,
+        "availableDays": [
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR238",
+        "duration": 13,
+        "potentialEarnings": 5564,
+        "availableDays": [
+            "saturday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR503",
+        "duration": 10,
+        "potentialEarnings": 4240,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR506",
+        "duration": 5,
+        "potentialEarnings": 2220,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR408",
+        "duration": 11,
+        "potentialEarnings": 4807,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR560",
+        "duration": 2,
+        "potentialEarnings": 844,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR287",
+        "duration": 13,
+        "potentialEarnings": 5460,
+        "availableDays": [
+            "saturday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR882",
+        "duration": 9,
+        "potentialEarnings": 3798,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR756",
+        "duration": 7,
+        "potentialEarnings": 2968,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR218",
+        "duration": 5,
+        "potentialEarnings": 2210,
+        "availableDays": [
+            "saturday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR971",
+        "duration": 1,
+        "potentialEarnings": 466,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR376",
+        "duration": 7,
+        "potentialEarnings": 3066,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR695",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": []
+    },
+    {
+        "lessonRequestId": "LR599",
+        "duration": 7,
+        "potentialEarnings": 2968,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR423",
+        "duration": 1,
+        "potentialEarnings": 468,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR977",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "tuesday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR893",
+        "duration": 7,
+        "potentialEarnings": 3108,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR883",
+        "duration": 6,
+        "potentialEarnings": 2520,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR951",
+        "duration": 11,
+        "potentialEarnings": 4631,
+        "availableDays": [
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR405",
+        "duration": 3,
+        "potentialEarnings": 1293,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR241",
+        "duration": 11,
+        "potentialEarnings": 4730,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR750",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR108",
+        "duration": 3,
+        "potentialEarnings": 1311,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR348",
+        "duration": 7,
+        "potentialEarnings": 3101,
+        "availableDays": [
+            "sunday",
+            "saturday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR590",
+        "duration": 2,
+        "potentialEarnings": 864,
+        "availableDays": [
+            "saturday",
+            "wednesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR747",
+        "duration": 9,
+        "potentialEarnings": 3960,
+        "availableDays": [
+            "sunday",
+            "friday",
+            "thursday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR516",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR720",
+        "duration": 7,
+        "potentialEarnings": 3094,
+        "availableDays": [
+            "wednesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR166",
+        "duration": 9,
+        "potentialEarnings": 3996,
+        "availableDays": [
+            "tuesday",
+            "wednesday",
+            "friday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR504",
+        "duration": 12,
+        "potentialEarnings": 5076,
+        "availableDays": [
+            "saturday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR135",
+        "duration": 4,
+        "potentialEarnings": 1768,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "tuesday",
+            "friday",
+            "thursday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR766",
+        "duration": 4,
+        "potentialEarnings": 1740,
+        "availableDays": [
+            "saturday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR703",
+        "duration": 9,
+        "potentialEarnings": 3789,
+        "availableDays": [
+            "sunday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR797",
+        "duration": 13,
+        "potentialEarnings": 5759,
+        "availableDays": [
+            "saturday",
+            "tuesday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR53",
+        "duration": 0,
+        "potentialEarnings": 0,
+        "availableDays": [
+            "wednesday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR751",
+        "duration": 3,
+        "potentialEarnings": 1311,
+        "availableDays": [
+            "sunday",
+            "saturday",
+            "friday",
+            "wednesday",
+            "monday"
+        ]
+    },
+    {
+        "lessonRequestId": "LR635",
+        "duration": 3,
+        "potentialEarnings": 1308,
+        "availableDays": [
+            "sunday",
+            "tuesday",
+            "wednesday",
+            "friday",
+            "thursday",
+            "monday"
+        ]
+    },
+    {"lessonRe

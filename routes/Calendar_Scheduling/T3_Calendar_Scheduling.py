@@ -6,11 +6,7 @@ from flask import request
 from routes import app
 
 # My import
-# import functools
 
-# @functools.lru_cache
-# def dp(i, j):
-#     return dp[i][j]
 
 logger = logging.getLogger(__name__)
 
@@ -47,4 +43,4 @@ def add_oil():
                 break
 
     logging.info({k:v for k,v in schedule.items() if v})
-    return json.dumps({k:v for k,v in schedule.items() if v})
+    return json.dumps([{k:v for k,v in schedule.items() if v}])
