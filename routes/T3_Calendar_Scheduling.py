@@ -17,6 +17,9 @@ logger = logging.getLogger(__name__)
 @app.route('/calendar-scheduling', methods=['POST'])
 def add_oil():
     lesson_requests = request.get_json()
+    
+    logging.info("data sent for evaluation {}".format(lesson_requests))
+
     schedule = {}
     earnings = 0
 
@@ -42,5 +45,6 @@ def add_oil():
                 schedule[day].append(lesson["lessonRequestId"])
                 earnings += potential_earnings
                 break
-            
+
+    logging.info({k:v for k,v in schedule.items() if v})
     return json.dumps({k:v for k,v in schedule.items() if v})
