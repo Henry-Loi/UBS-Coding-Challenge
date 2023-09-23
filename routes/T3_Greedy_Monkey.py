@@ -6,7 +6,6 @@ from flask import request
 from routes import app
 
 # My import
-import math
 
 logger = logging.getLogger(__name__)
 
