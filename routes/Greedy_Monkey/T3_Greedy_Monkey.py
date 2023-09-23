@@ -17,7 +17,7 @@ logger = logging.getLogger(__name__)
 @app.route('/greedymonkey', methods=['POST'])
 def testing():
     data = request.get_json()
-    logging.info("data sent for evaluation {}".format(data))
+    # logging.info("data sent for evaluation {}".format(data))
     
     # my code starts here
     n, max_w, max_v = len(data["f"]), data["w"], data["v"]
@@ -33,5 +33,5 @@ def testing():
         # logging.info(dp)
     # my code ends here
 
-    logging.info("My result :{}".format(dp[max_w][max_v]))
+    # logging.info("My result :{}".format(dp[max_w][max_v]))
     return json.dumps(dp[max_w][max_v])
