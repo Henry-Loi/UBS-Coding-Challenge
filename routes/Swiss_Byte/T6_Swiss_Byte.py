@@ -59,7 +59,7 @@ def testing():
                     exec(line, {}, variables)
                     for key, value in variables.items():
                         if isinstance(value, float):
-                            variables[key] = int(math.floor(value))
+                            variables[key] = int(value)
                 except (SyntaxError, NameError):
                     is_solvable = False
                     break
