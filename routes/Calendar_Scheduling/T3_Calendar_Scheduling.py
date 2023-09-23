@@ -43,6 +43,6 @@ def add_oil():
                 break
 
     logging.info({k:v for k,v in schedule.items() if v})
-    response_data = json.dumps([{k:v for k,v in schedule.items() if v}])
+    response_data = json.dumps({k:v for k,v in schedule.items() if v})
 
     return Response(response_data, mimetype='application/json')
